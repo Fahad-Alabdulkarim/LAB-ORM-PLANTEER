@@ -1,0 +1,7 @@
+.background-img {
+    background-image: url('/static/images/plant-background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
